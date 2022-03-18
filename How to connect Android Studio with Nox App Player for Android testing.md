@@ -1,4 +1,4 @@
-## How to connect Android Studio with Nox App Player for Android testing
+## How to connect Nox App Player for Android testing
 Nox App Player is a full feature Android emulator which could be used for Android development, testing, and debugging. This post will give a step by step guidance on how to connect Nox with Android Studio as an example. 
 1. Download and install the latest version of Nox App Player from our official website: https://www.bignox.com/
 2. Start Android studio and create a new activity
